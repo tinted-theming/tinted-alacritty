@@ -1,5 +1,11 @@
 # tinted-alacritty
 
+**Deprecated**: tinted-alacritty and all the other Tinted Theming
+terminal template repositories have moved to a single [Tinted
+Terminal](https://github.com/tinted-theming/tinted-terminal) repository.
+
+---
+
 Base16 and Base24 themes, by [Tinted Theming], for the [Alacritty
 Terminal Emulator].
 
